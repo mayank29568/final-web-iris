@@ -597,6 +597,8 @@ margin-left: 40px;
 }
 .technologies h1{
   text-align: center;
+padding-bottom: 25px;
+  font-size: 50px;
 }
 /* Technologies card section */
 
@@ -1064,6 +1066,8 @@ footer {
 .aisolution h1{
   color: whitesmoke;
   text-align: center;
+padding-bottom: 25px;
+  font-size: 50px;
 }
 .container{
   position: relative;
